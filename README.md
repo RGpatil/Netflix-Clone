@@ -22,5 +22,5 @@ A Netflix clone built with React.js and Firebase, replicating the core features 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dattahari7/Netflix-Clone.git
+   git clone https://github.com/RGpatil/Netflix-Clone.git
    cd netflix-clone
